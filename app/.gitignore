@@ -1,0 +1,27 @@
+# Gradle文件
+.gradle
+build
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE配置
+.idea
+*.iml
+*.iws
+*.ipr
+
+# 编译输出
+app/build
+captures
+outputs
+
+# 本地配置（重要！里面有你的签名信息，不要上传）
+local.properties
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志文件
+*.log
+
+gradle/wrapper/dists/
