@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidText"
 include(":app")
+include(":lesson1")
